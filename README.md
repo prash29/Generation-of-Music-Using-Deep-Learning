@@ -18,4 +18,4 @@ Some of the sample music generated can be found here https://drive.google.com/op
 
 
 ###### Mean Opinion Scores
-![alt text] (https://github.com/prash29/Generation-of-Music-Using-Deep-Learning/master/bar.png)
+![Alt text](https://github.com/prash29/Generation-of-Music-Using-Deep-Learning/master/bar.png)
