@@ -1,4 +1,4 @@
-# Generation-of-Music-Using-Deep-Learning
+# Generation of Music Using Deep Learning Techniques
 
 The weight of the model used after training is available in the link below
 (https://drive.google.com/open?id=1gl9icPYtfDMPS-H2xnwwBrSnCsJnzCCT)
